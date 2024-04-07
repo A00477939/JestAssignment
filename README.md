@@ -12,7 +12,7 @@ To get started with Hello Canada, follow these steps:
 4. Run `npm start` to start the development server.
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-##Test
+## Test
 
-1)The test case are written in App.test.js
-2)To run test cases type npm test in terminal
+1. The test case are written in App.test.js
+2. To run test cases type npm test in terminal
